@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "test"
+date:   2017-04-22 02:02:09 +0900
+---
+You’ll find this post in your `_posts` directory.
+日本語入力のテスト
+
